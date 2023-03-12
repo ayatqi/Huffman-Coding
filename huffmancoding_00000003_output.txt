@@ -1,0 +1,11 @@
+6
+A 3 10 6
+B 1 0000 4
+C 4 01 8
+G 3 11 6
+K 1 0001 4
+T 2 001 6
+
+34-bit out of 98-bit
+total space 35%
+0.003763microseconds
